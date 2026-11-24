@@ -1,0 +1,1 @@
+# tecx-cad-ai-seed-blueprint
