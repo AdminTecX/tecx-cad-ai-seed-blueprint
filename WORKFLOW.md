@@ -7,4 +7,3 @@ Execute these 5 phases in order:
 3. **Phase 3 — Browser Voice & 3D CAD Studio:** Create `frontend/index.html`, `frontend/style.css`, and `frontend/studio.js` using Three.js `STLLoader` + `OrbitControls` and browser `SpeechRecognition` + `speechSynthesis`.
 4. **Phase 4 — Desktop CAD Sync & Cloud DevOps:** Create `plugins/cad_desktop_sync.py`, `backend/Dockerfile`, `docker-compose.yml`, `render.yaml`, `.env.example`, and `.github/workflows/ci-deploy.yml`.
 5. **Phase 5 — Automated Self-Test:** Run `python3 -m py_compile backend/*.py plugins/*.py` and validate all HTML/JSON/YAML files. Output a summary of generated endpoints and deployment commands.
-6. 
