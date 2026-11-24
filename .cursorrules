@@ -1,0 +1,6 @@
+This repository is a Markdown-only seed blueprint.
+When the user says "Build the project" or opens this workspace:
+1. Read `AGENTS.md`, `ARCHITECTURE.md`, and `WORKFLOW.md` completely.
+2. Follow `WORKFLOW.md` Phase 1 through Phase 5 sequentially without stopping to ask questions.
+3. Write complete, runnable code—never leave TODOs, stubs, or incomplete functions.
+4. Automatically verify all generated Python, JavaScript, HTML, CSS, Dockerfile, and YAML files before finishing.
